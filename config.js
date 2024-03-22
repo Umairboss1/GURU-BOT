@@ -7,9 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
-  [''] 
+  ['923096399711', 'UMAIR BOSS HACKER', true],
+  ['923014699711', 'UMAIR BOSS HACKER', true], 
+  ['HACKER'] 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
@@ -50,9 +50,9 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
-global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
+global.botname = 'UMAIR BOSS HACKER'
+global.premium = 'false'
+global.packname = 'UMAIR BOSS HACKER' 
 global.author = '@Asliguru' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
